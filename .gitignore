@@ -1,34 +1,4 @@
-# Logs
-logs
-*.log
-npm-debug.log*
-
-# Runtime data
-pids
-*.pid
-*.seed
-
-# Babel output
-lib
-
-# Coverage directory used by tools like istanbul
-coverage
-
-# Dependency directories
-node_modules
-jspm_packages
-
-# Optional npm cache directory
-.npm
-
-# Optional REPL history
-.node_repl_history
-
-# Output for generated reports
-reports
-
-# IntelliJ IDEA
 .idea
-
-# Visual Studio Code
-.vscode
+node_modules
+reports
+reports2
